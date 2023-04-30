@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **PowerBi**
 
-- 📫 How to reach me **mshashikant3600@gmial.com**
+- 📫 How to reach me **mshashikant3600@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
