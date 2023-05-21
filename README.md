@@ -16,10 +16,7 @@
 <!-- <img align="right" alt="data_analyst" width="400" src="https://i.pinimg.com/originals/cf/cf/8c/cfcf8c86a569d30b5dae709551634a5b.gif"> -->
 
 
-
-
 - 🌱 I’m currently learning **Tableau**
-
 
 
 <h2>How to reach me</h2>
@@ -40,7 +37,6 @@
 </a>
 </h2>
 
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <!--   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> -->
@@ -49,18 +45,20 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashikant190&" alt="shashikant190" /></p> -->
 ## 📊 Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashikant190&theme=blue-green" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shashikant190&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="434" style="border: 1px solid white;" />
+  <kbd>
+    <img src="https://github-readme-stats.vercel.app/api?username=shashikant190&theme=blue-green" alt="GitHub Stats" width="400" />
+  </kbd>
+  <kbd>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=shashikant190&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="434" />
+  </kbd>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashikant190&layout=compact&theme=cobalt&hide_border=true" alt="Top Languages" style="border: 1px solid white;"/>
+  <kbd>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashikant190&layout=compact&theme=cobalt&hide_border=true" alt="Top Languages" />
+  </kbd>
 </div>
-
-
+>
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=shashikant190&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
