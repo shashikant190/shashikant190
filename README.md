@@ -52,7 +52,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shashikant190&theme=blue-green" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shashikant190&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shashikant190&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="434" />
 </div>
 
 <div align="center">
