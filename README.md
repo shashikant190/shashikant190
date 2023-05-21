@@ -47,16 +47,16 @@
 ## 📊 Stats
 <div align="center">
   <kbd>
-    <img src="https://github-readme-stats.vercel.app/api?username=shashikant190&theme=blue-green" alt="GitHub Stats" width="300" />
+    <img src="https://github-readme-stats.vercel.app/api?username=shashikant190&theme=blue-green" alt="GitHub Stats" width="350" />
   </kbd>
   <kbd>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=shashikant190&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="323" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=shashikant190&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="373" />
   </kbd>
 </div>
 
 <div align="center">
   <kbd>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashikant190&layout=compact&theme=cobalt&hide_border=true" alt="Top Languages" width="300" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashikant190&layout=compact&theme=cobalt&hide_border=true" alt="Top Languages" width="350" />
   </kbd>
 </div>
 >
