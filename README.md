@@ -51,18 +51,15 @@
 ## 📊 Stats
 
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=shashikant190&theme=blue-green" alt="GitHub Stats" />
-  </div>
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=shashikant190&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shashikant190&theme=blue-green" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shashikant190&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashikant190&layout=compact&theme=cobalt&hide_border=true" alt="Top Languages" />
 </div>
+
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=shashikant190&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
