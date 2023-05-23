@@ -59,6 +59,5 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashikant190&layout=compact&theme=cobalt&hide_border=true" alt="Top Languages" width="350" />
   </kbd>
 </div>
->
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=shashikant190&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Shashikant's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shashikant190&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
