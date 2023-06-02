@@ -16,7 +16,7 @@
 <!-- <img align="right" alt="data_analyst" width="400" src="https://i.pinimg.com/originals/cf/cf/8c/cfcf8c86a569d30b5dae709551634a5b.gif"> -->
 
 
-- 🌱 I’m currently learning **Tableau**
+- 🌱 I am currently learning **Tableau**
 
 
 <h2>How to reach me</h2>
