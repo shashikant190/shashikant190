@@ -29,9 +29,9 @@
 <a href="https://www.linkedin.com/in/shashikant-maurya-37b360251">
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/shashikant-maurya-37b360251&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
 </a>
-<a href="https://instagram.com/sarcastikant">
+<!-- <a href="https://instagram.com/sarcastikant">
     <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=sarcastikant&color=E4405F&style=for-the-badge&logo=instagram" height="22px" />
-</a>
+</a> -->
 <a href="mailto:mshashikant3600@gmail.com">
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=mshashikant3600%40gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
 </a>
