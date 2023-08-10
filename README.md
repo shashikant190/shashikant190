@@ -1,6 +1,6 @@
 <!-- ![logo](https://github.com/shashikant190/shashikant190/blob/main/Github_Banner.png) -->
 <h1 align="center">Hi 👋, I'm Shashikant Maurya</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">...</h3>
 
 <h2 align="left">Project Info</h2>
 
