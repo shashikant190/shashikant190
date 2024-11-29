@@ -1,7 +1,9 @@
 <!-- ![logo](https://github.com/shashikant190/shashikant190/blob/main/Github_Banner.png) -->
-<h1 align="center">Hi 👋, I'm Shashikant Maurya</h1>
+<h1 align="center">
+  <a href="https://shashikant190.github.io/Resume/" target="_blank">Hi 👋, I'm Shashikant Maurya</a>
+</h1>
 <h3 align="center">"Interestingly, the irony is that we are here to develop the machines, not the humans."</h3>
-[GitHub]([https://github.com](https://shashikant190.github.io/Resume/))
+
 
 <h2 align="left">Project Info</h2>
 
