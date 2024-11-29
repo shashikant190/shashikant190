@@ -20,6 +20,7 @@
 
 
 - 🌱 I am currently learning **Tableau**
+- <a href="https://shashikant190.github.io/Resume/" target="_blank">My Resume</a>
 
 
 <h2>How to reach me</h2>
