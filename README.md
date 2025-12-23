@@ -34,7 +34,7 @@
   <b>Languages:</b> Python, SQL<br>
   <b>Backend:</b> FastAPI, Flask, REST APIs, SQLAlchemy<br>
   <b>Databases:</b> PostgreSQL, MySQL<br>
-  <b>Infrastructure & Tools:</b> Docker, Linux, Git, GitHub
+  <b>Infrastructure & Tools:</b> Docker, Git, GitHub
 </p>
 
 ---
